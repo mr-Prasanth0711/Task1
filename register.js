@@ -74,7 +74,7 @@ function validate() {
         Error(cpass, "Password must be match");
     } else {
 
-        var array = [];
+       
         const myObject = {
             name: getname,
             Email: getemail,
